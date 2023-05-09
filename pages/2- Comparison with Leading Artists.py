@@ -18,7 +18,7 @@ st.image(image, caption="P-pop scene based on followers and popularity.", use_co
 
 st.write("But since we also wanted to capture audiences from around the world, we wanted to compare also with the K-Pop Scene where BTS and Stray kids top the charts.")
 
-image2 = Image.open("8.png")
+image2 = Image.open("7.png")
 st.image(image2, caption="K-pop scene based on followers and popularity.", use_column_width=True)
 
 st.write("Interestingly enough, the distinguishable audio features for both kpop and ppop are the same, namely: Danceability, Energy, Key, Loudness, Speechiness. Other audio features have little to no difference or might not even matter in the production of the song. *Still, it is provided here for reference of the client.*")
