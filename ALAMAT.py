@@ -8,4 +8,4 @@ st.set_page_config(
 
 st.title('ALAMAT')
 
-st.image('ALAMAT.jpg')
+st.image('alamat.jpg')
