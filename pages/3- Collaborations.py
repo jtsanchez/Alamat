@@ -15,7 +15,9 @@ st.markdown('With this, top local and foreign artists with the most similar and 
 
 st.markdown('The team applied the methodology below in identifying the artists with the minimum (same genre) and maximum (opposite genre) with Alamat')
 
-st.image('engine.JPG')
+#st.image('engine.JPG')
+st.image('methodology.JPG')
+
 
 st.markdown('The following artists were identified as good collaborators with Alamat as they have harmonizing song features with Alamat and and have wide reach and monthly listeners')
 
